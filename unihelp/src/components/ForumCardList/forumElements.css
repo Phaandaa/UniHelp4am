@@ -1,0 +1,17 @@
+.btn{
+    box-shadow: none !important;
+}
+
+.username {
+    font-size: x-small;
+}
+
+.img-fluid:hover{
+    opacity: 0.5;
+}
+
+
+.img-fluidactive{
+    opacity: 0.5;
+}
+
